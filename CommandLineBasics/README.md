@@ -1,6 +1,6 @@
 # Command Line Basics
 
-For this demo, we will go over the 12 essential linux commands that I use almost everyday in my professional career as a software engineer. The command line used to be the primary interface between a user and a computer. Nothing a person can do on a GUI, which cannot be done on the command line.
+For this demo, we will go over the 13 essential linux commands that I use almost everyday in my professional career as a software engineer. The command line used to be the primary interface between a user and a computer. Nothing a person can do on a GUI, which cannot be done on the command line.
 
 Knowing these commands also help you particularly if you will be joining our Beginner Python Programming Masterclass on the 17th February.
 
@@ -50,36 +50,37 @@ Break those commands intro 3 categories:
 6. rm / del, rm -rf / deltree
 
 - delete file, folder
+- -r means recursively
 
 7. mv / move
 
 - move or rename a file
 
-8. cp / copy
+8. cp / copy, cp -R / xcopy
 
-- copy files over
+- copy files, folder over
 
 ### File READ/WRITE Commands
 
-8. cat / type
+9. cat / type
 
 - view the file
 
-9. nano / - (could be configured using WSL (Windows Sub System))
+10. nano / - (could be configured using WSL (Windows Sub System))
 
 - edit the file
 
 ### Other
 
-10. man / help
+11. man / help
 
 - show manual or help
 
-11. clear / cls
+12. clear / cls
 
 - clear the command line screen
 
-12. Running and application - same for both - _IMPORTANT_
+13. Running and application - same for both - _IMPORTANT_
 
     Must:
 
