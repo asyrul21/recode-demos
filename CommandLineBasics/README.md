@@ -16,7 +16,8 @@ Break those commands intro 3 categories:
 
 1. Navigational
 2. File Manipulation
-3. Others
+3. File READ/WRITE
+4. Others
 
 ### Navigation Commands - _MOST IMPORTANT_
 
