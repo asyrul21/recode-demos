@@ -8,7 +8,11 @@ _IMPORTANT NOTE_
 
 If you are using MacOS or Linux, these commands are the same. However, if you use Windows, the commands are different. In this demo we'll go through only the linux commands, but you can try out the windows commands yourself.
 
-We will cover: pwd, ls, cd, mkdir, touch, rm, cat, mv, man, clear, nano, and running and app.
+Also, in Windows, directory slashes "/" are backwards "\\". Example
+
+macOS/Linux: Documents/Development/RecodeMasterclass/Demos
+
+Windows: Documents\\Development\\RecodeMasterclass\\Demos
 
 ## Commands (macOS,Linux/Windows)
 
@@ -50,6 +54,10 @@ Break those commands intro 3 categories:
 7. mv / move
 
 - move or rename a file
+
+8. cp / copy
+
+- copy files over
 
 ### File READ/WRITE Commands
 
