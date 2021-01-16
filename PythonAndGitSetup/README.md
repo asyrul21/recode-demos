@@ -12,6 +12,8 @@ This demo is to guide students to setup and install Python and the Git Source Co
 
    _IMPORTANT NOTE_
 
+   - Select the right version
+
    - Be sure to SELECT "Add Anaconda to the PATH environment variable"
 
    - don't need to install PyCharm
