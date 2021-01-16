@@ -26,4 +26,7 @@ This demo is to guide students to setup and install Python and the Git Source Co
 
 ## Git
 
-1. Download and Install Git from [here](https://git-scm.com/downloads).
+1. Create and account in Github
+
+2. Download and Install Git from [here](https://git-scm.com/downloads).
+   - Just click next for all.
