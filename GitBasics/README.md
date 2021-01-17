@@ -1,6 +1,6 @@
 # Source Control with Git Basics
 
-For this demo we will go over the fundamental concepts of GIT source control. Since this quite a tricky topic, I am splitting the demo into two parts:
+For this demo we will go over the fundamental concepts of GIT source control. Since this is quite a tricky topic, I am splitting the demo into two parts:
 
 The first part is when we'll go over the core concepts of git and source control. Then, I will demonstrate how to create a new repository on Github. We will also go over an overview on the concept of "branching".
 
@@ -166,7 +166,7 @@ If you would like to clone other people's repository, you do not need to create 
 
 1. On the Author's repository page, on the right side clide the "Code" button and copy the link of the repository.
 
-   ![Git Clone Example](images/git-clone.png)
+   ![Git Clone Example](images/git-clone-recode.png)
 
 2. In your desired folder, run the clone command:
 
