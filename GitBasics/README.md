@@ -20,7 +20,7 @@ Since Git is by itself is quite a big topic, for this demo we will only work on 
 
 ### Conceptual Overview
 
-Go to [slides]().
+Go to `slides/gitbasics.pptx`.
 
 <br/>
 
