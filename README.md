@@ -12,6 +12,4 @@ This repository stores all the related materials for the free online demos. Each
 
 4. The Bubble Sort Algorithm
 
-5. The Fibonacci Sequence
-
 <!-- git push --set-upstream origin master -->
